@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 19 09:22:13 2020
-
-@author: User
-"""
-
-
+# opt final
 from gurobipy import *
 
 import numpy as np
